@@ -1,0 +1,32 @@
+{"Comments": {
+    "1" : {
+        "comment" : "Good Morning",
+        "reply" : [
+            "Panneer : Welcome",
+            "Selvam : Hello",
+            "Santhosh : Good Morning",
+            "Kumar : G M"
+        ]
+    },
+    "2" : {
+        "comment" : "Good Afternoon",
+        "reply" : [
+            "KPS : Good noon",
+            "PS : Noon",
+            "Padmini : G N"
+        ]
+    },
+    "3" : {
+        "comment" : "Good Evening",
+        "reply" : [
+            "PSK : Evening",
+            "K Panneerselvam : Good evening"
+        ]
+    },
+    "4" : {
+        "comment" : "Good Night",
+        "reply" : [
+            "Pady : Good Night"
+        ]
+    }
+}} 
